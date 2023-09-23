@@ -1,0 +1,28 @@
+
+
+.messege_Box{
+
+    
+    width: auto;
+    height: 8%;
+    align-self: center;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 5px;
+    
+    text-overflow: ellipsis;
+    display: block;
+    clear:both;
+}
+
+.right{
+    float: right;
+    background-color: blueviolet;
+    color:white
+}
+
+.left{
+    float: left;
+    background-color: rgb(196, 255, 184);
+    color:black;
+}
